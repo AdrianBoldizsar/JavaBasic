@@ -19,7 +19,8 @@ public class Avion {
     public Integer numarBagaje;
     public Integer echipajAvion;
 
-    public Avion(String marca, String model, String tip, String taraOrigine, Integer capacitatePasageri, Integer numarBagaje, Integer echipajAvion) {
+    public Avion(String marca, String model, String tip, String taraOrigine, Integer capacitatePasageri,
+                 Integer numarBagaje, Integer echipajAvion) {
         this.marca = marca;
         this.model = model;
         this.tip = tip;
