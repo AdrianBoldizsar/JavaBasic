@@ -18,5 +18,4 @@ public class TeorieGit {
     //Merge = combinarea modificarilor dintr-o ramura in alta
     //Push = trimiterea modificarilolr locale catre un repository remote(Git Local --> Git Remote)
     //Pull = descarcarea ultimelor modificare de pe remote pe local(Git Remote --> Git Local)
-
 }
